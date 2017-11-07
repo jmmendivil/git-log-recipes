@@ -9,6 +9,8 @@ Super basic git log
 Styles
 ---------------
 *[Pavel Shved](http://coldattic.info)*
+**3rd example is not working for me**
++ #TODO  fix this one
 
     git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"
 
